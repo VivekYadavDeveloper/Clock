@@ -1,6 +1,7 @@
 # timer
 
-A new Flutter project.
+A new Flutter Project.
+It' Basic Clock App By A Flutter I Learn It From Youtube.
 
 ## Getting Started
 
